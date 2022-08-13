@@ -38,7 +38,7 @@
                     v-for="item in stationList"
                     v-bind:station="item"
                     v-bind:key="item.id">
-                    <div class="pure-g" v-on:click="onPlayStation(item.stream)">
+                    <div class="pure-g station-box" v-on:click="onPlayStation(item.stream)">
                         <div class="pure-u-1-4 l-box">
                             <div class="station-logo">
                                 <img class="pure-img" v-bind:src="item.logo" v-bind:alt="item.station">
@@ -47,7 +47,7 @@
                     </div>
                 </radio-station>
 
-                <div class="pure-g blank-radio">
+                <div class="pure-g blank-radio station-box">
                     <div class="pure-u-1-4 l-box">
                         <div class="station-logo">
                             <img class="pure-img" src="data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=">
