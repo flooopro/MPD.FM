@@ -1,28 +1,24 @@
 [
     {   "id": 0, 
         "station": "Ö1",
-        "desc": "Österreich 1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%C3%96sterreich_1_2017_logo.svg/411px-%C3%96sterreich_1_2017_logo.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%C3%96sterreich_1_2017_logo.svg",
         "stream": "https://orf-live.ors-shoutcast.at/oe1-q2a"
     },
     {   "id": 1, 
         "station": "Hitradio Ö3",
-        "desc": "Hitradio Ö3",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/550px-Hitradio_%C3%963.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hitradio_%C3%963.svg",
         "stream": "https://orf-live.ors-shoutcast.at/oe3-q2a"
     },
     {   "id": 2, 
         "station": "FM4",
-        "desc": "FM4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FM4.svg/520px-FM4.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/2/24/FM4.svg",
         "stream": "https://orf-live.ors-shoutcast.at/fm4-q2a"
     },
     {   "id": 3, 
         "station": "Radio Niederösterreich",
-        "desc": "Radio Niederösterreich",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Radio_N%C3%96.svg/320px-Radio_N%C3%96.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Radio_N%C3%96.svg",
         "stream": "https://orf-live.ors-shoutcast.at/noe-q2a"
@@ -30,7 +26,6 @@
     {
         "id": 4,
         "station": "Radio Wien",
-        "desc": "Radio Wien",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logo_Radio_Wien.svg/294px-Logo_Radio_Wien.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Radio_Wien.svg",
         "stream": "https://orf-live.ors-shoutcast.at/wie-q2a"
@@ -38,14 +33,12 @@
     {
         "id": 5,
         "station": "Radio 88.6",
-        "desc": "Rockradio",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Logo_886.png",
         "stream": "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
     },
     {
         "id": 6,
         "station": "Kronehit",
-        "desc": "Kronehit",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg/640px-Kronehit_Logo2018_Nachtblau_rgb.svg.png",
         "logosvg": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Kronehit_Logo2018_Nachtblau_rgb.svg",
         "stream": "https://secureonair.krone.at/kronehit-ultra-hd.aac"
@@ -53,14 +46,12 @@
     {
         "id": 7,
         "station": "Energy FM",
-        "desc": "Energy",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ENERGY_COLOR_LOGO_ON_WHITE_BACKGROUND.jpg/397px-ENERGY_COLOR_LOGO_ON_WHITE_BACKGROUND.jpg",
         "stream": "https://scdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3"
     },
     {
         "id": 8,
         "station": "Soundportal",
-        "desc": "Radio Soundportal",
         "logo": "https://www.radio.at/images/broadcasts/fd/95/4453/c300.png",
         "stream": "https://rs8.stream24.net/radio-soundportal.mp3"
     }
