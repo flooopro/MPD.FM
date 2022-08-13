@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 .station-logo {
     position:relative;
     overflow:hidden;
