@@ -56,6 +56,13 @@
         "desc": "Energy",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ENERGY_COLOR_LOGO_ON_WHITE_BACKGROUND.jpg/397px-ENERGY_COLOR_LOGO_ON_WHITE_BACKGROUND.jpg",
         "stream": "https://scdn.nrjaudio.fm/adwz1/at/36001/mp3_128.mp3"
+    },
+    {
+        "id": 8,
+        "station": "Soundportal",
+        "desc": "Radio Soundportal",
+        "logo": "https://www.radio.at/images/broadcasts/fd/95/4453/c300.png",
+        "stream": "https://rs8.stream24.net/radio-soundportal.mp3"
     }
 ]
 
